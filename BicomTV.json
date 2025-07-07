@@ -1,0 +1,92 @@
+[
+ {
+   "Channel": "RCTI",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/RCTI.png",
+   "Link": "https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8"
+ },
+ {
+   "Channel": "MNCTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/MNC.png",
+   "Link": "https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8"
+ },
+ {
+   "Channel": "GTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/GTV.png",
+   "Link": "https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8"
+ },
+ {
+   "Channel": "ANTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/ANTV.png",
+   "Link": "https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8"
+ },
+ {
+   "Channel": "INDOSIAR",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/INDOSIAR.png",
+   "Link": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8"
+ },
+ {
+   "Channel": "SCTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/SCTV.png",
+   "Link": "http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+ },
+ {
+   "Channel": "TRANSTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/TRANSTV.png",
+   "Link": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1904136356_b744100_sleng.m3u8"
+ },
+ {
+   "Channel": "TRANS7",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/TRANS7.png",
+   "Link": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w14747866_b744100_sleng.m3u8"
+ },
+ {
+   "Channel": "KOMPAS",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/KOMPAS.png",
+   "Link": "http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8"
+ },
+ {
+   "Channel": "TVONE",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/TVONE.png",
+   "Link": "http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne"
+ },
+ {
+   "Channel": "TVRI",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/TVRI.png",
+   "Link": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+ },
+ {
+   "Channel": "METROTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/METROTV.png",
+   "Link": "http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV"
+ },
+ {
+   "Channel": "BERITASATU",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/BERITASATU.png",
+   "Link": "http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV"
+ },
+ {
+   "Channel": "CNNINDONESIA",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/CNNINDONESIA.png",
+   "Link": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8"
+ },
+ {
+   "Channel": "CNBCINDONESIA",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/CNBCINDONESIA.png",
+   "Link": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8"
+ },
+ {
+   "Channel": "INEWS",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/INEWS.png",
+   "Link": "https://inews-cutv.rctiplus.id/inews-sdi.m3u8"
+ },
+ {
+   "Channel": "MOJI",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/MOJI.png",
+   "Link": "http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8"
+ },
+ {
+   "Channel": "MDTV",
+   "Logo": "https://raw.githubusercontent.com/wadooke/bicomtv/refs/heads/main/MDTV.png",
+   "Link": "http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|referrer=http://dens.tv"
+ }
+]
